@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">🚀 Projects on Cybersecurity</h1>
+<h1>🚀 Projects on Cybersecurity</h1>
 
-<!--
-**nimeshupadhyay12/nimeshupadhyay12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <a href="#">🔹 Project 1: Threat Intelligence Automation Tool</a><br>
+  <a href="#">🔹 Project 2: Web Application Pentesting Toolkit</a><br>
+  <a href="#">🔹 Project 3: Mobile Hacking Framework</a>
+</p>
 
-Here are some ideas to get you started:
+<h2>📜 Certifications</h2>
+<p>
+  <a href="#">✅ Google Cloud Cybersecurity Certificate</a><br>
+  <a href="#">✅ OSCP (Offensive Security Certified Professional)</a><br>
+  <a href="#">✅ CEH (Certified Ethical Hacker)</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🛒 CyberxSphere Store</h2>
+<p>
+  <a href="https://cyberxsphere.com/store">🛍️ Visit CyberxSphere Store</a>
+</p>
+
+
